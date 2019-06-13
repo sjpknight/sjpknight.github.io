@@ -1,2 +1,3 @@
+Ensure "friends.xml" test data is loaded before commencing test
 Logged in using $app_credentials.username
 Friends dialogue is displayed
